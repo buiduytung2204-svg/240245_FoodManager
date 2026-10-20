@@ -1,0 +1,31 @@
+{
+  "name": "240245_foodmanager",
+  "version": "1.0.0",
+  "private": true,
+  "main": "index.js",
+  "scripts": {
+    "start": "node scripts/start.cjs",
+    "android": "expo start --android",
+    "ios": "node scripts/start.cjs --go --lan",
+    "test": "node --test --test-concurrency=1 tests/unit/*.test.js tests/integration/*.test.js"
+  },
+  "dependencies": {
+    "expo": "57.0.0",
+    "react": "19.2.3",
+    "react-native": "0.86.3",
+    "expo-sqlite": "~57.0.0",
+    "@react-native-community/netinfo": "12.0.1",
+    "react-native-safe-area-context": "~5.7.0"
+  },
+  "expo": {
+    "install": {
+      "exclude": [
+        "expo"
+      ]
+    }
+  },
+  "devDependencies": {
+    "@babel/core": "^7.29.7",
+    "@babel/plugin-transform-modules-commonjs": "^7.29.7"
+  }
+}

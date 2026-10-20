@@ -1,0 +1,1 @@
+{"expo":{"name":"240245_FoodManager","slug":"240245-foodmanager","version":"1.0.0","orientation":"portrait","userInterfaceStyle":"light","ios":{"supportsTablet":true},"android":{"package":"com.student240245.foodmanager"},"plugins":["expo-sqlite"]}}

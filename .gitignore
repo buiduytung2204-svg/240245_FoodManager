@@ -1,0 +1,13 @@
+node_modules/
+.expo/
+dist/
+.env
+.cache/
+.env.*
+!.env.example
+coverage/
+*.log
+*.db
+*.db-wal
+*.db-shm
+.DS_Store
