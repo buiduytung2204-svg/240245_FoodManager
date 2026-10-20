@@ -1,6 +1,7 @@
 # 240245_FoodManager
 
 Ứng dụng quản lý món ăn bằng **Expo SDK 57.0.0 / React Native**, SQLite local và tự đồng bộ hai chiều với MockAPI. MSSV: **240245**.
+Link video demo : https://drive.google.com/drive/folders/1C1lAfaMtFmExxyagCk329sEPfYp3IB-C?usp=drive_link
 
 ## Chạy trên iPhone
 
